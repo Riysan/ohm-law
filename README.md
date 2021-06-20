@@ -2,4 +2,4 @@
 オームの法則 計算機
 JavaScriptを利用しています。
 
-> こちらより利用できます : https://riysan.github.io/ohm-law/
+> こちらより利用できます : https://code-raisan.github.io/ohm-law/
